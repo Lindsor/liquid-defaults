@@ -1,5 +1,5 @@
 # liquid-defaults
-A liquid filter to set cascading default values.
+A liquid filter plugin to set cascading default values. Originally made for use with Jekyll but should work in shopify sites as well.
 
 ## Using:
 
